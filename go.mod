@@ -1,0 +1,1 @@
+module "github.com/darvik80/fidonet"
